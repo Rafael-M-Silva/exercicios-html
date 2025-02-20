@@ -1,7 +1,7 @@
-h3 {
-    color: white;
-    background-color: blue;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 70px;
-    text-align: center;
+h1, h2, h3 {
+  color: red;
+  background: blue;
+  font-size: 80px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma,sans-serif;
 }
